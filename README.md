@@ -67,8 +67,7 @@ This project demonstrates a complete e‑bike shopping experience from browsing 
 
 ## 🛠 Tools Used
 
-- Figma  
-- UI/UX Design Principles
+- Figma 
 
 ---
 
