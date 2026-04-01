@@ -1,7 +1,7 @@
 # 🚴 Vellaro – Electric Bike App UI
 
-Modern **electric bike mobile app UI/UX design** focused on sleek visuals, smooth navigation, and elegant branding.  
-This project demonstrates a complete e-bike shopping experience from browsing models to making a purchase.
+Modern **electric bike mobile app UI/UX design** focused on stylish visuals, smooth navigation, and elegant branding.  
+This project demonstrates a complete e‑bike shopping experience from browsing models to making a purchase.
 
 ---
 
@@ -19,7 +19,7 @@ This project demonstrates a complete e-bike shopping experience from browsing mo
 
 <p align="center">
   <img src="Screenshots/3.jpg" width="42%" style="margin:20px;">
-  <img src="ScreenShots/4.png" width="42%" style="margin:20px;">
+  <img src="Screenshots/4.jpg" width="42%" style="margin:20px;">
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ This project demonstrates a complete e-bike shopping experience from browsing mo
 </p>
 
 <p align="center">
-  <img src="Screenshots/15.jpg width="42%" style="margin:20px;">
+  <img src="Screenshots/15.jpg" width="42%" style="margin:20px;">
   <img src="Screenshots/16.jpg" width="42%" style="margin:20px;">
 </p>
 
@@ -65,22 +65,7 @@ This project demonstrates a complete e-bike shopping experience from browsing mo
 - ⚡ Filter options (all, electric, accessories, offers)  
 - 💳 Order summary and checkout flow  
 - 👤 User profile management  
-- 💬 Customer support integration  
-
----
-
-## 📱 Screens Included
-
-- Splash Screen  
-- Home Screen  
-- Bike Details  
-- Filter & Search Screen  
-- Offers & Discounts  
-- Order Summary  
-- Payment Screen  
-- Order Success Screen  
-- Chat Support  
-- User Profile  
+- 💬 Customer support integration
 
 ---
 
@@ -94,7 +79,7 @@ This project demonstrates a complete e-bike shopping experience from browsing mo
 
 ## 📌 Project Purpose
 
-This project was created to practice and showcase **mobile UI/UX design skills** by designing a modern e-bike shopping application interface.
+This project was created to practice and showcase **mobile UI/UX design skills** by designing a modern e‑bike shopping application interface.
 
 ---
 
