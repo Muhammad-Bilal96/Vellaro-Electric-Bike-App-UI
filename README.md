@@ -49,12 +49,8 @@ This project demonstrates a complete e‑bike shopping experience from browsing 
 
 <p align="center">
   <img src="Screenshots/15.jpg" width="42%" style="margin:20px;">
-  <img src="Screenshots/16.jpg" width="42%" style="margin:20px;">
 </p>
 
-<p align="center">
-  <img src="Screenshots/17.jpg" width="42%" style="margin:20px;">
-</p>
 
 ---
 
