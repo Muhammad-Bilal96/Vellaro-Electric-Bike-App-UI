@@ -71,6 +71,17 @@ This project demonstrates a complete e‑bike shopping experience from browsing 
 
 ---
 
+## 🛠 Plugins Used
+
+- Iconify
+- Freepik
+- Canned Style
+- Content Reel
+- Unsplash
+- UX pilot
+
+---
+
 ## 📌 Project Purpose
 
 This project was created to practice and showcase **mobile UI/UX design skills** by designing a modern e‑bike shopping application interface.
